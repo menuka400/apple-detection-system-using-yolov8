@@ -1,0 +1,7 @@
+# Specify the Python version
+python_version >= 3.11
+
+# List of dependencies
+opencv-python==4.8.0.76
+ultralytics==8.0.20
+google-colab==1.0.0
