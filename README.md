@@ -67,3 +67,4 @@ This project is **open-source** and available under the **MIT License**.
 
 🔹 Happy Coding & Happy Detecting! 🎯
 
+### ⭐ *Star this repository if you like our project!* ⭐
